@@ -13,6 +13,15 @@ The program registers sellers and products to be sold. Each product has a catego
 [![devlucasA](https://github.com/devlucasA.png?size=60)](https://github.com/devlucasA "Lucas Araújo de Oliveira on GitHub")
 [![LucasPMartins](https://github.com/LucasPMartins.png?size=60)](https://github.com/LucasPMartins "LucasPMartins on GitHub")
 
+## 🛠 Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0a58ee)&nbsp;
+
+## 👨‍💻 Programming and Markup Language
+![C](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=0a58ee)
+
 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1154793024396742656/1157893098081357894/POWERFUL.png?ex=6534a17b&is=65222c7b&hm=2e6149a7e4b3e50870c6a58a5d9e83d2131b233e5fe49fa0e85171501bc55bda&" width="400" height="400"/>
