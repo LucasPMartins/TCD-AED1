@@ -11,7 +11,7 @@ The program registers sellers and products to be sold. Each product has a catego
 ## 🤝 Contributors
 [![brenimcode](https://github.com/brenimcode.png?size=60)](https://github.com/brenimcode "Breno Oliveira Cavalcante on GitHub")
 [![devlucasA](https://github.com/devlucasA.png?size=60)](https://github.com/devlucasA "Lucas Araújo de Oliveira on GitHub")
-[![LucasPMartins](https://github.com/LucasPMartins.png?size=60)](https://github.com/LucasPMartins "LucasPMartins on GitHub")
+[![LucasPMartins](https://github.com/LucasPMartins.png?size=50)](https://github.com/LucasPMartins "LucasPMartins on GitHub")
 
 ## 🛠 Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
